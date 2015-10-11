@@ -10,3 +10,7 @@ gradle-app.setting
 # Intellij files
 .idea/
 gradletuto.iml
+
+# local libs and data
+libs/
+src/test/resources/
